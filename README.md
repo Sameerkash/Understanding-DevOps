@@ -5,8 +5,8 @@
 
 **Table of Contents**
 
-- [ ] [Docker](./docs.docker.md) 🐳
-- [ ] [Kubernetes](./docs.k8s.md) ☸️
+- [ ] [Docker](./docs/docker.md) 🐳
+- [ ] [Kubernetes](./docs/k8s.md) ☸️
 <!-- - 3. [](./docs.k8s.md) -->
 
 
